@@ -1,0 +1,16 @@
+[
+{
+  "modid": "consolesimulator",
+  "name": "Console Simulator",
+  "description": "Makes minecraft feel more like a console game",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["VikeStep"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
