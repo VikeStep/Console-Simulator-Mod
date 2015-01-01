@@ -26,6 +26,20 @@ minecraft {
     runDir = "run"
 }
 
+jar {
+    manifest {
+        attributes 'FMLCorePlugin': 'com.vikestep.consolesimulator.asm.ConsoleSimulatorPlugin'
+        attributes 'FMLCorePluginContainsFMLMod': 'true'
+    }
+}
+
+sourceSets.main{
+    java {
+        srcDirs 'java'
+        exclude '**/tests/**'
+    }
+}
+
 dependencies {
     // you may put jars on which you depend on in ./libs
     // or you may define them like so..
