@@ -1,0 +1,21 @@
+#More realistic names. Will be overridden if another mod changes it that gets loaded after console simulator
+tile.potatoes.name=XBOXs
+item.potato.name=XBOX
+item.potatoBaked.name=Wii U
+item.potatoPoisonous.name=PS3
+entity.Villager.name=Peasant
+selectWorld.mapFeatures.info=Peasant Farms, dungeons etc
+menu.online=XBOX Live
+death.attack.arrow=%1$s was noscoped by %2$s
+death.attack.arrow.item=%1$s was noscoped by %2$s using %3$s
+disconnect.lost=XBOX Live is Down
+disconnect.loginFailed=Failed to login to XBOX Live
+connect.connecting=Connecting to the server (0/50)...
+connect.authorizing=Logging into XBOX Live...
+connect.failed=Failed to connect to XBOX Live
+menu.generatingLevel=Checking DLC
+menu.loadingLevel=Connected to XBOX Live
+menu.generatingTerrain=Finding a server...
+menu.convertingLevel=Server found
+menu.simulating=Activating your kinect sensor and camera
+chat.type.achievement=%s has just earned the achievement %s +10 GamerPoints
